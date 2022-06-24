@@ -1,8 +1,6 @@
 # statistics_python
-A repository with some statistics notebook classes with python <br>
+A repository with some old statistics notebook classes in early days with python <br>
 Some earlier data still in Portuguese <br>
-
-
 
 Statistics I  <br>
   -Understand statistics and the numbers you deal with <br>
@@ -11,11 +9,11 @@ Statistics I  <br>
   -Know what frequency distribution is  <br>
   -Know the variance and standard deviation    <br>
   
-Statistics II  <br>  
-  -Understand binomial, poisson and normal distributions <br>  
-  -Know what the confidence level and interval <br>  
-  -Learn about sampling techniques <br>  
-  -Calculate your sample size <br>  
+Statistics II  <br>
+  -Understand binomial, poisson and normal distributions  <br>
+  -Know what the confidence level and interval  <br>
+  -Learn about sampling techniques  <br>
+  -Calculate your sample size  <br>
   
 Statistics III <br>
   -Run normality tests <br>
